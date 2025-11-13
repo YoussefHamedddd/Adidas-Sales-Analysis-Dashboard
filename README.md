@@ -42,7 +42,7 @@ Based on Data Sales Adidas dataset.
 
 Cleaned and transformed within Power BI using Power Query.
 
-#🧠 Skills Demonstrated
+# 🧠 Skills Demonstrated
 
 Power BI Dashboard Design
 
