@@ -1,58 +1,65 @@
 # 🏷️ Adidas Sales Analysis Dashboard
 # 📊 Project Overview
 
-This project is a data analysis and visualization dashboard built in Microsoft Power BI, designed to analyze and display key performance metrics for Adidas product sales across different regions, product categories, and months.
+#  project is a data analysis and visualization dashboard built in Microsoft Power BI, designed to analyze and display key performance metrics for Adidas product sales across different regions, product categories, and months.
 
-The goal of this dashboard is to provide business insights on:
+# The goal of this dashboard is to provide business insights on:
 
-Total sales performance and profit margins.
+• Total sales performance and profit margins
 
-Product-wise and city-wise distribution of sales.
+• Product-wise and city-wise distribution of sales
 
-Monthly trends and operating margins.
+• Monthly trends and operating margins
 
-It serves as an interactive tool for management to monitor performance, identify best-selling products, and make data-driven decisions.
+# It serves as an interactive tool for management to:
+
+• Monitor performance
+
+• Identify best-selling products
+
+• Make data-driven decisions
 
 # 🚀 Features
-KPI Cards showing:
 
-Total Sales
+• KPI Cards Showing
 
-Total Profit Margin
+• Total Sales
 
-Operating Margin
+• Total Profit Margin
 
-Total Units Sold
+• Operating Margin
 
-Average Price per Unit
+• Total Units Sold
 
-Visuals Included:
+• Average Price per Unit
 
-Line chart for monthly sales trends.
+• Visuals Included
 
-Bar chart for profit margin by product.
+• Line Chart: Monthly sales trends
 
-Combo chart comparing sales and operating profit by product.
+• Bar Chart: Profit margin by product
 
-Map visualization of total sales by city.
+• Combo Chart: Comparison between sales and operating profit by product
 
-Data Model:
+• Map Visualization: Total sales by city
 
-Based on Data Sales Adidas dataset.
+# Data Model
 
-Cleaned and transformed within Power BI using Power Query.
+• Based on Data Sales Adidas dataset
+
+• Cleaned and transformed using Power Query in Power BI
 
 # 🧠 Skills Demonstrated
 
-Power BI Dashboard Design
+• Power BI Dashboard Design
 
-Data Cleaning and Transformation
+• Data Cleaning and Transformation
 
-DAX Measures and Calculations
+• DAX Measures and Calculations
 
-Data Visualization and Storytelling
+• Data Visualization and Storytelling
 
-Business Analytics and KPI Reporting
+• Business Analytics and KPI Reporting
 
 # 🛠️ Tools & Technologies
 
@@ -64,10 +71,10 @@ DAX (for measures and KPIs)
 
 # 📈 Insights Extracted
 
-Seasonal sales trends showing peaks around mid-year.
+Seasonal sales trends showing peaks around mid-year
 
-North America identified as the highest sales region.
+North America identified as the highest sales region
 
-Footwear and Apparel categories generating most profit.
+Footwear and Apparel categories generating most profit
 
-Profit Margin maintaining stability between 36–40%.
+Profit Margin maintaining stability between 36–40%
