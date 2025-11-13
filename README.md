@@ -1,3 +1,6 @@
+🏷️ Adidas Sales Analysis Dashboard
+📊 Project Overview
+
 This project is a data analysis and visualization dashboard built in Microsoft Power BI, designed to analyze and display key performance metrics for Adidas product sales across different regions, product categories, and months.
 
 The goal of this dashboard is to provide business insights on:
@@ -11,7 +14,6 @@ Monthly trends and operating margins.
 It serves as an interactive tool for management to monitor performance, identify best-selling products, and make data-driven decisions.
 
 🚀 Features
-
 KPI Cards showing:
 
 Total Sales
@@ -56,7 +58,7 @@ Business Analytics and KPI Reporting
 
 Power BI Desktop
 
-Excel  (Adidas Sales Data)
+Excel (Adidas Sales Data)
 
 DAX (for measures and KPIs)
 
@@ -64,8 +66,8 @@ DAX (for measures and KPIs)
 
 Seasonal sales trends showing peaks around mid-year.
 
-North America as the highest sales region.
+North America identified as the highest sales region.
 
 Footwear and Apparel categories generating most profit.
 
-Total Profit Margin maintaining stability around 36–40%.
+Profit Margin maintaining stability between 36–40%.
