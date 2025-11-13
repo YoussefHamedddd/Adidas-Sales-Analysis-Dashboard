@@ -1,5 +1,5 @@
-🏷️ Adidas Sales Analysis Dashboard
-📊 Project Overview
+# 🏷️ Adidas Sales Analysis Dashboard
+# 📊 Project Overview
 
 This project is a data analysis and visualization dashboard built in Microsoft Power BI, designed to analyze and display key performance metrics for Adidas product sales across different regions, product categories, and months.
 
@@ -13,7 +13,7 @@ Monthly trends and operating margins.
 
 It serves as an interactive tool for management to monitor performance, identify best-selling products, and make data-driven decisions.
 
-🚀 Features
+# 🚀 Features
 KPI Cards showing:
 
 Total Sales
@@ -42,7 +42,7 @@ Based on Data Sales Adidas dataset.
 
 Cleaned and transformed within Power BI using Power Query.
 
-🧠 Skills Demonstrated
+#🧠 Skills Demonstrated
 
 Power BI Dashboard Design
 
@@ -54,7 +54,7 @@ Data Visualization and Storytelling
 
 Business Analytics and KPI Reporting
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 Power BI Desktop
 
@@ -62,7 +62,7 @@ Excel (Adidas Sales Data)
 
 DAX (for measures and KPIs)
 
-📈 Insights Extracted
+# 📈 Insights Extracted
 
 Seasonal sales trends showing peaks around mid-year.
 
